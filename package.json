@@ -1,0 +1,13 @@
+{
+  "name": "Simple Update Server",
+  "version": "1.0.0",
+  "description": "A very simple update tracking server for whatever",
+  "author": "Tyler Casson <tylercasson@me.com>",
+  "dependencies": {
+    "express": ">= 3.x.x",
+    "jsonfile": ">= 1.x.x",
+    "mime": ">= 1.x.x",
+    "semver": ">= 2.x.x"
+  },
+  "license": "MIT"
+}
